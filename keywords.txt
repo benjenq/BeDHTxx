@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For Messenger
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+BeDHT	KEYWORD1	BeDHT
+name	KEYWORD1
+temperatureCelsius	KEYWORD1
+temperatureFahrenheit	KEYWORD1
+humidity	KEYWORD1
+hiCelsius   KEYWORD1
+hiFahrenheit    KEYWORD1
+readsuccess	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+readValue	KEYWORD2
+setBeDHTCallback	KEYWORD2
+temperatureSensorInfo   KEYWORD2
+humiditySensorInfo  KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
